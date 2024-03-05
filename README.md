@@ -1,4 +1,4 @@
-# Parkinson-s-Disease-Detection
+# Parkinson's-Disease-Detection
 
 An overview of Parkinson’s disease, it is a brain disorder that causes unintended or uncontrollable movements, such as shaking, stiffness, and difficulty with balance and coordination.
 We use Support Machine Vector Classifier (SVM) which is a supervised machine learning algorithm that creates a hyperplane to separate N features, by mapping these features to a multidimensional space. Since PD voice data is not linearly separable, we use an SVM kernel to transform data into higher dimensional space. SVM performs well for PD data due to memory efficiency and support vectors formed from a subset of training data points.
